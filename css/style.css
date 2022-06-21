@@ -1,0 +1,43 @@
+.row1{
+    background-color: rgb(58, 58, 128);text-align: right;
+}
+
+.row1h {
+    color: white; text-align: right;
+}
+
+.allothercol {background-color: rgb(238, 227, 227); <h1 style=""}
+
+h1 {
+    text-align: center;
+}
+
+
+
+.row{
+    margin: top 3px;; background-color: black;
+}
+.lastrow{
+    margin: top 3px; padding-bottom: 0.5px; background-color: rgb(100, 99, 99);
+}
+
+.col-lg-3 {
+    background-color: rgb(238, 227, 227)
+}
+
+.signs{
+    background-color: rgb(253, 124, 72)
+}
+
+.white{
+    color:white;text-align:center
+    ;
+}
+
+.ondo{
+background-color:rgb(238, 227, 227) ;
+}
+
+.xero{
+    color: white
+}
